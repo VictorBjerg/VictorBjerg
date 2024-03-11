@@ -1,6 +1,4 @@
-### Hi there 👋
-
-✨ _Yay!_ ✨
+### ✨ _Yay!_ ✨
 
 - 🔭 Lærer at kode.
 - 🌱 Wubwub
